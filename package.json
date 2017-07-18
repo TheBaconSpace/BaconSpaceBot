@@ -22,8 +22,6 @@
   },
   "homepage": "https://github.com/TheBaconSpace/BaconSpaceBot#readme",
   "dependencies": {
-    "fs": "0.0.1-security",
-    "request": "^2.81.0",
     "tmi.js": "^1.2.1"
   }
 }
